@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSlocator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="txt_telnumber">Telephone number</string>
+    <string name="txt_start">Start tracking</string>
+    <string name="txt_stop">Stop tracking</string>
+    <string name="txt_save">Save data</string>
+    <string name="txt_time">Time interval (minutes)</string>
+    <string name="txt_gpson">GPS STATUS: ON</string>
+    <string name="txt_gpsoff">GPS STATUS: OFF</string>
+    <string name="txt_gpspending">GPS STATUS:</string>
+    <string name="txt_n">N: </string>
+    <string name="txt_e">E: </string>
+    <string name="txt_alt">Alt: </string>
+    <string name="txt_lastread">Last read: </string>
+    
+    <string name="toast_back">You can exit the app only when tracking is off</string>
+    <string name="toast_error">Please fill all the fields</string>
+
+</resources>
